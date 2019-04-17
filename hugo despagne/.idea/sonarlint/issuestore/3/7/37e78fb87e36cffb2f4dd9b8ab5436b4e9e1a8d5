@@ -1,0 +1,5 @@
+
+`squid:UselessImportCheck"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ8úåù¢-
+Isquid:S1068"+Remove this unused "counter" private field.(äóÎò8úåù¢-
+xsquid:S3923#"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¾­È8Âü¢-
+Usquid:S1135&"2Complete the task associated to this TODO comment.(ìÿ‡áüÿÿÿÿ8Âü¢-

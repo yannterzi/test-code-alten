@@ -1,0 +1,8 @@
+org\despagnehugo\api\DropWizardExpediaExceptionMapper.class
+org\despagnehugo\ExpediaApplication.class
+org\despagnehugo\api\Flight.class
+org\despagnehugo\ExpediaConfiguration.class
+org\despagnehugo\data\FlightDAO.class
+org\despagnehugo\health\GenericHealthCheck.class
+org\despagnehugo\api\DropWizardExpediaException.class
+org\despagnehugo\resources\ExpediaResource.class

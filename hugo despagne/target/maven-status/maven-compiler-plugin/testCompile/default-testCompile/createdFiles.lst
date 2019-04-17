@@ -1,0 +1,3 @@
+org\despagnehugo\AppTest.class
+org\despagnehugo\data\FlightDAOTest.class
+org\despagnehugo\resources\ExpediaResourceTest.class
