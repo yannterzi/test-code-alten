@@ -1,0 +1,15 @@
+This application that will give you available flights for a given search query.
+The flight search algorithm will only display flights at a distance (plus or minus) of 5 hours from the time you select for your departure.
+
+To launch the application run http://localhost:8080/
+
+To add test data in the database, run use http://localhost:8080/add  
+
+To find available flight, try http://localhost:8080/find/{departure} 
+Example
+http://localhost:8080/find/8:00 AM
+
+The departure time is valid if it follows the following format "hh:mm a" .
+
+Enjoy!
+  
